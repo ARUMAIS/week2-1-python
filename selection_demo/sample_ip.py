@@ -7,7 +7,7 @@
 # Licensing      : (c) 2021 Aishwarya,LYIT
 #                  Available under GNU Public License (GPL)
 # Description    
-# ---------------------------
+# using ifelse
 """
 if __name__== "__main__":
     grade=input("Enter a grade:")
